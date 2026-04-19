@@ -56,7 +56,7 @@ O **Show do Trilhão** é um jogo que tem como objetivo testar e reforçar conhe
 
 ## 📸 Preview
 
-*(adicione um print do jogo aqui depois)*
+*![Tela inicial](menu.png)*
 
 ---
 
