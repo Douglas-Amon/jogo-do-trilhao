@@ -55,7 +55,7 @@ O **Show do Trilhão** é um jogo que tem como objetivo testar e reforçar conhe
 ---
 
 ## 📸 Preview
-
+Link do jogo: https://editor.p5js.org/Douglas_Amon/full/o2KQV4vkl
 ![Tela inicial](https://github.com/Douglas-Amon/jogo-do-trilhao/blob/main/menu.png)
 
 ---
